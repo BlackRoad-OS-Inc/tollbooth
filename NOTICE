@@ -1,0 +1,17 @@
+NOTICE — Third-Party Software Attribution
+==========================================
+
+This repository (tollbooth) is based on WireGuard.
+
+Original Project: WireGuard
+Original Repository: https://github.com/wireguard/wireguard-go
+Original License: MIT
+
+The original code is copyright its respective authors and is used in
+compliance with the MIT license. BlackRoad OS, Inc.
+modifications and additions are proprietary.
+
+A copy of the original MIT license can be found at:
+https://github.com/wireguard/wireguard-go/blob/main/LICENSE
+
+© 2024-2026 BlackRoad OS, Inc. All rights reserved for modifications.
